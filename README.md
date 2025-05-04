@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/PrathamSur/LeetCode/tree/master/0031-next-permutation) |
 | [0890-lemonade-change](https://github.com/PrathamSur/LeetCode/tree/master/0890-lemonade-change) |
 | [1046-max-consecutive-ones-iii](https://github.com/PrathamSur/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/PrathamSur/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PrathamSur/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/PrathamSur/LeetCode/tree/master/0031-next-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/PrathamSur/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/PrathamSur/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
