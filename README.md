@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/PrathamSur/LeetCode/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/PrathamSur/LeetCode/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/PrathamSur/LeetCode/tree/master/0577-employee-bonus) |
 ## Array
