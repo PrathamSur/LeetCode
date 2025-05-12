@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PrathamSur/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/PrathamSur/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PrathamSur/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2308-divide-array-into-equal-pairs](https://github.com/PrathamSur/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PrathamSur/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2308-divide-array-into-equal-pairs](https://github.com/PrathamSur/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PrathamSur/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2308-divide-array-into-equal-pairs](https://github.com/PrathamSur/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PrathamSur/LeetCode/tree/master/0067-add-binary) |
+| [2308-divide-array-into-equal-pairs](https://github.com/PrathamSur/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Simulation
 |  |
 | ------- |
