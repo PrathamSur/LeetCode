@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/PrathamSur/LeetCode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/PrathamSur/LeetCode/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/PrathamSur/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/PrathamSur/LeetCode/tree/master/0595-big-countries) |
 | [1801-average-time-of-process-per-machine](https://github.com/PrathamSur/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 ## Array
 |  |
