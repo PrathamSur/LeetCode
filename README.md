@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PrathamSur/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/PrathamSur/LeetCode/tree/master/0070-climbing-stairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PrathamSur/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Greedy
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PrathamSur/LeetCode/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/PrathamSur/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PrathamSur/LeetCode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PrathamSur/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
