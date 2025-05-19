@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/PrathamSur/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PrathamSur/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrathamSur/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3321-type-of-triangle](https://github.com/PrathamSur/LeetCode/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PrathamSur/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/PrathamSur/LeetCode/tree/master/0070-climbing-stairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PrathamSur/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3321-type-of-triangle](https://github.com/PrathamSur/LeetCode/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PrathamSur/LeetCode/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/PrathamSur/LeetCode/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
