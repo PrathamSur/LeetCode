@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/PrathamSur/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/PrathamSur/LeetCode/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/PrathamSur/LeetCode/tree/master/0627-swap-salary) |
+| [1179-game-play-analysis-i](https://github.com/PrathamSur/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1390-average-selling-price](https://github.com/PrathamSur/LeetCode/tree/master/1390-average-selling-price) |
 | [1801-average-time-of-process-per-machine](https://github.com/PrathamSur/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 ## Array
