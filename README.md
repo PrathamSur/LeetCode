@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/PrathamSur/LeetCode/tree/master/0031-next-permutation) |
+| [0073-set-matrix-zeroes](https://github.com/PrathamSur/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/PrathamSur/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0890-lemonade-change](https://github.com/PrathamSur/LeetCode/tree/master/0890-lemonade-change) |
 | [1046-max-consecutive-ones-iii](https://github.com/PrathamSur/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/PrathamSur/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PrathamSur/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrathamSur/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/PrathamSur/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrathamSur/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/PrathamSur/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
