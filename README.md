@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PrathamSur/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PrathamSur/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/PrathamSur/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/PrathamSur/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/PrathamSur/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0890-lemonade-change](https://github.com/PrathamSur/LeetCode/tree/master/0890-lemonade-change) |
 | [1046-max-consecutive-ones-iii](https://github.com/PrathamSur/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -97,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/PrathamSur/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/PrathamSur/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/PrathamSur/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PrathamSur/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrathamSur/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/PrathamSur/LeetCode/tree/master/0229-majority-element-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PrathamSur/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrathamSur/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## String Matching
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PrathamSur/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/PrathamSur/LeetCode/tree/master/0229-majority-element-ii) |
 | [3321-type-of-triangle](https://github.com/PrathamSur/LeetCode/tree/master/3321-type-of-triangle) |
 ## Trie
 |  |
