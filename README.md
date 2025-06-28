@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathamSur/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/PrathamSur/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/PrathamSur/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/PrathamSur/LeetCode/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/PrathamSur/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/PrathamSur/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/PrathamSur/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/PrathamSur/LeetCode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/PrathamSur/LeetCode/tree/master/0229-majority-element-ii) |
 | [3321-type-of-triangle](https://github.com/PrathamSur/LeetCode/tree/master/3321-type-of-triangle) |
 ## Trie
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/PrathamSur/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/PrathamSur/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PrathamSur/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/PrathamSur/LeetCode/tree/master/0148-sort-list) |
 ## Tree
 |  |
 | ------- |
@@ -188,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/PrathamSur/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/PrathamSur/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/PrathamSur/LeetCode/tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PrathamSur/LeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PrathamSur/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
