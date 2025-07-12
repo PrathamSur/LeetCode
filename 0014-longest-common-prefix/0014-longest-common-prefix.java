@@ -12,8 +12,8 @@ class Solution {
                 arr.append(first.charAt(i));
             }
             else{
-                String res=arr.toString();
-                return res;
+                
+                return arr.toString();
             }
         }
         return arr.toString();
