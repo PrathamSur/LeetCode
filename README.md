@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathamSur/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/PrathamSur/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/PrathamSur/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/PrathamSur/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PrathamSur/LeetCode/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/PrathamSur/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/PrathamSur/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/PrathamSur/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/PrathamSur/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/PrathamSur/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/PrathamSur/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PrathamSur/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/PrathamSur/LeetCode/tree/master/0560-subarray-sum-equals-k) |
