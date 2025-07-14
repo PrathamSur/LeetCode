@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/PrathamSur/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/PrathamSur/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PrathamSur/LeetCode/tree/master/0231-power-of-two) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrathamSur/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PrathamSur/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/PrathamSur/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PrathamSur/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PrathamSur/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/PrathamSur/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/PrathamSur/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrathamSur/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Tree
 |  |
 | ------- |
