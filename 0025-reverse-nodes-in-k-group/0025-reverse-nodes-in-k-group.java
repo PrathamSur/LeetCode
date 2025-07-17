@@ -12,7 +12,7 @@ class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
         if(head==null) return null; 
         ListNode temp=head;
-        ListNode prev=null;         
+        ListNode prev=null;          // use the prev node so that after reversing the second group you can attach the prev node to the newHead after its reverse
         while(temp!=null){
             ListNode kth=kNode(temp,k);
             if(kth==null){
@@ -22,13 +22,15 @@ class Solution {
                 break;
             }
             else{
-                ListNode nextNode=kth.next;
+                ListNode nextNode=kth.next; //keep the nextNode in record so that you can make it temp later
                 
                 kth.next=null;
                 ListNode newHead=reverseList(temp);
-                if(temp==head) head=newHead;
+                if(temp==head) head=newHead;  // if it is the first group then temp will be same as head...then you just have to make the head=newHead
                 else{
-                    prev.next=kth;
+                    // if temp is not the head it means it is not the first grooup so after the reverse just attach the prev (which is the last node of 
+                    //the prev group to the newHead of the reversed next group)
+                    prev.next=kth;          
                 }
                 prev=temp;
                 temp=nextNode;
