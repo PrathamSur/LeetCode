@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrathamSur/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrathamSur/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/PrathamSur/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/PrathamSur/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/PrathamSur/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/PrathamSur/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PrathamSur/LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrathamSur/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/PrathamSur/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/PrathamSur/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/PrathamSur/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/PrathamSur/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/PrathamSur/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PrathamSur/LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrathamSur/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/PrathamSur/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/PrathamSur/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PrathamSur/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
