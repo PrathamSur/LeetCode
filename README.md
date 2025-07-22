@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/PrathamSur/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/PrathamSur/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/PrathamSur/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1813-maximum-erasure-value](https://github.com/PrathamSur/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrathamSur/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3194-find-words-containing-character](https://github.com/PrathamSur/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/PrathamSur/LeetCode/tree/master/3321-type-of-triangle) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/PrathamSur/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/PrathamSur/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/PrathamSur/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1813-maximum-erasure-value](https://github.com/PrathamSur/LeetCode/tree/master/1813-maximum-erasure-value) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/PrathamSur/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PrathamSur/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/PrathamSur/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/PrathamSur/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrathamSur/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
