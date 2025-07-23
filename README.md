@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/PrathamSur/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/PrathamSur/LeetCode/tree/master/0890-lemonade-change) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/PrathamSur/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/PrathamSur/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/PrathamSur/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/PrathamSur/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/PrathamSur/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/PrathamSur/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/PrathamSur/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/PrathamSur/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/PrathamSur/LeetCode/tree/master/3396-valid-word) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/PrathamSur/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/PrathamSur/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/PrathamSur/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/PrathamSur/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Two Pointers
 |  |
 | ------- |
