@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/PrathamSur/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/PrathamSur/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PrathamSur/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/PrathamSur/LeetCode/tree/master/0258-add-digits) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrathamSur/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PrathamSur/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/PrathamSur/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/PrathamSur/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/PrathamSur/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/PrathamSur/LeetCode/tree/master/0258-add-digits) |
 ## Memoization
 |  |
 | ------- |
@@ -289,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PrathamSur/LeetCode/tree/master/0496-next-greater-element-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/PrathamSur/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
