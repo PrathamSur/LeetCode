@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/PrathamSur/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PrathamSur/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PrathamSur/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/PrathamSur/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/PrathamSur/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PrathamSur/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/PrathamSur/LeetCode/tree/master/0056-merge-intervals) |
@@ -141,11 +142,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PrathamSur/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/PrathamSur/LeetCode/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/PrathamSur/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PrathamSur/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrathamSur/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/PrathamSur/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/PrathamSur/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrathamSur/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathamSur/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/PrathamSur/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/PrathamSur/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/PrathamSur/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/PrathamSur/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/PrathamSur/LeetCode/tree/master/0148-sort-list) |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PrathamSur/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/PrathamSur/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrathamSur/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Number Theory
