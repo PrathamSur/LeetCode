@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/PrathamSur/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PrathamSur/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PrathamSur/LeetCode/tree/master/0258-add-digits) |
+| [1013-fibonacci-number](https://github.com/PrathamSur/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrathamSur/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PrathamSur/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/PrathamSur/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/PrathamSur/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/PrathamSur/LeetCode/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/PrathamSur/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1013-fibonacci-number](https://github.com/PrathamSur/LeetCode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PrathamSur/LeetCode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/PrathamSur/LeetCode/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/PrathamSur/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/PrathamSur/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PrathamSur/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/PrathamSur/LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
