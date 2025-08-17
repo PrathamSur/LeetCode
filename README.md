@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1013-fibonacci-number](https://github.com/PrathamSur/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrathamSur/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PrathamSur/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/PrathamSur/LeetCode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/PrathamSur/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PrathamSur/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/PrathamSur/LeetCode/tree/master/3321-type-of-triangle) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/PrathamSur/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/PrathamSur/LeetCode/tree/master/0890-lemonade-change) |
+| [1448-maximum-69-number](https://github.com/PrathamSur/LeetCode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PrathamSur/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/PrathamSur/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## String
