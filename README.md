@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2432-number-of-zero-filled-subarrays](https://github.com/PrathamSur/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PrathamSur/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/PrathamSur/LeetCode/tree/master/3321-type-of-triangle) |
+| [3830-find-closest-person](https://github.com/PrathamSur/LeetCode/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
 | ------- |
