@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrathamSur/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/PrathamSur/LeetCode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/PrathamSur/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/PrathamSur/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PrathamSur/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/PrathamSur/LeetCode/tree/master/0067-add-binary) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0006-zigzag-conversion](https://github.com/PrathamSur/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/PrathamSur/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathamSur/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/PrathamSur/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/PrathamSur/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PrathamSur/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PrathamSur/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/PrathamSur/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/PrathamSur/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/PrathamSur/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/PrathamSur/LeetCode/tree/master/0258-add-digits) |
