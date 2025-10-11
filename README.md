@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PrathamSur/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/PrathamSur/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/PrathamSur/LeetCode/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/PrathamSur/LeetCode/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/PrathamSur/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/PrathamSur/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PrathamSur/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/PrathamSur/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/PrathamSur/LeetCode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/PrathamSur/LeetCode/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/PrathamSur/LeetCode/tree/master/1642-water-bottles) |
 ## Memoization
 |  |
 | ------- |
