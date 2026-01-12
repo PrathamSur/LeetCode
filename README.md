@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrathamSur/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/PrathamSur/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrathamSur/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/PrathamSur/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PrathamSur/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/PrathamSur/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/PrathamSur/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/PrathamSur/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PrathamSur/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PrathamSur/LeetCode/tree/master/0258-add-digits) |
+| [0441-arranging-coins](https://github.com/PrathamSur/LeetCode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/PrathamSur/LeetCode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PrathamSur/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrathamSur/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
