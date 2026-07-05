@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/PrathamSur/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/PrathamSur/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1813-maximum-erasure-value](https://github.com/PrathamSur/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrathamSur/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrathamSur/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/PrathamSur/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3194-find-words-containing-character](https://github.com/PrathamSur/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PrathamSur/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/PrathamSur/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PrathamSur/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrathamSur/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/PrathamSur/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/PrathamSur/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/PrathamSur/LeetCode/tree/master/3194-find-words-containing-character) |
